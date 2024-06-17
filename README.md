@@ -3,6 +3,8 @@
 ## 🎮 Introduction
 League of Legends (LoL) is a thrilling MOBA (Multiplayer Online Battle Arena) game where two teams of five face off in an arena-style map. 🌍 With a global competitive scene featuring 12 leagues, LoL is the largest esport in the world. The League of Legends Championship Series (LCS) is North America's premier league, consisting of 10 teams competing in Spring and Summer splits for a shot at the annual world championship. 🏅 My goal is to harness data science to predict outcomes of professional LoL matches based on past LCS results. 📈
 
+<img src="https://github.com/GTrace2/Esports-Predictive-Analysis/blob/main/img/ModelPredvsActual.png"> 
+
 ## 📜 Abstract
 I sourced data from previous LCS seasons via Oracles Elixir, a resource run by a professional data scientist in esports. 🧠 My approach involved:
 
